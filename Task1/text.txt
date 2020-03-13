@@ -1,0 +1,4 @@
+C:\test\text1.txt
+C:\test\text2.txt
+C:\test\text3.txt
+C:\test\text5.txt
